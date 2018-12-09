@@ -2,7 +2,6 @@
 
 A splash of this and a splash of that.
 
-Since the server-side of Splash used Spring Boot the following tid-bits are nice to know.
 
 ## Static Content
 
