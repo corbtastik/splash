@@ -2,7 +2,6 @@
 
 A splash of this and a splash of that.
 
-
 ## Static Content
 
 1. Served from ``/static``
